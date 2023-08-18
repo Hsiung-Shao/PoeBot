@@ -1,0 +1,7 @@
+{
+    "discordToken": "你的Discord bot token",
+    "apikey": "Poe API key",
+    "season": "賽季名稱",
+    "status": "",
+    "channel": "discord 頻道ID"
+}
